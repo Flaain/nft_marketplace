@@ -1,0 +1,85 @@
+@import url(../fonts/fonts.css);
+
+@import url(../vendor/normalize.css);
+
+@import url(../blocks/body/body.css);
+
+@import url(../blocks/body/__page/body__page.css);
+
+@import url(../blocks/page/page.css);
+
+@import url(../blocks/btn/btn.css);
+
+@import url(../blocks/page/__header/page__header.css);
+
+@import url(../blocks/header/header.css);
+
+@import url(../blocks/header/__container/header__container.css);
+
+@import url(../blocks/header/__links/header__links.css);
+
+@import url(../blocks/header/__nav/header__nav.css);
+
+@import url(../blocks/header/__list/header__list.css);
+
+@import url(../blocks/header/__item/header__item.css);
+
+@import url(../blocks/header/__link/header__link.css);
+
+@import url(../blocks/header/__btn/header__btn.css);
+
+@import url(../blocks/logo/logo.css);
+
+@import url(../blocks/logo/__mark/logo__mark.css);
+
+@import url(../blocks/logo/_place/logo_place_header.css);
+
+@import url(../blocks/form/form.css);
+
+@import url(../blocks/form/__header/form__header.css);
+
+@import url(../blocks/search/search.css);
+
+@import url(../blocks/search/__header/search__header.css);
+
+@import url(../blocks/search/__icon/search__icon.css);
+
+@import url(../blocks/search/__btn/search__btn.css);
+
+@import url(../blocks/container/container.css);
+
+@import url(../blocks/homepage/homepage.css);
+
+@import url(../blocks/homepage/__text/homepage__text.css);
+
+@import url(../blocks/homepage/__title/homepage__title.css);
+
+@import url(../blocks/homepage/__subtitle/homepage__subtitle.css);
+
+@import url(../blocks/homepage/__btns/homepage__btns.css);
+
+@import url(../blocks/homepage/__btn/homepage__btn.css);
+
+@import url(../blocks/table/table.css);
+
+@import url(../blocks/table/__cell/table__cell.css);
+
+@import url(../blocks/table/__title/table__title.css);
+
+@import url(../blocks/table/__subtitle/table__subtitle.css);
+
+@import url(../blocks/homepage/__leftside/homepage__leftside.css);
+
+@import url(../blocks/homepage/__images/homepage__images.css);
+
+@import url(../blocks/homepage/__image/homepage__image.css);
+
+@import url(../blocks/page/__container/page__container.css);
+
+@import url(../blocks/container/__homepage/container__homepage.css);
+
+@import url(../blocks/sponsors/sponsors.css);
+
+@import url(../blocks/sponsors/__images/sponsors__images.css);
+
+@import url(../blocks/sponsors/__image/sponsors__image.css);
