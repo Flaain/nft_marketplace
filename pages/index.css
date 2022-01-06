@@ -83,3 +83,25 @@
 @import url(../blocks/sponsors/__images/sponsors__images.css);
 
 @import url(../blocks/sponsors/__image/sponsors__image.css);
+
+@import url(../blocks/section-text/section-text.css);
+
+@import url(../blocks/section-text/__title/section-text__title.css);
+
+@import url(../blocks/section-text/__subtitle/section-text__subtitle.css);
+
+@import url(../blocks/about/about.css);
+
+@import url(../blocks/about/__description/about__description.css);
+
+@import url(../blocks/about/__images/about__images.css);
+
+@import url(../blocks/about/__image/about__image.css);
+
+@import url(../blocks/about/__text/about__text.css);
+
+@import url(../blocks/about/__title/about__title.css);
+
+@import url(../blocks/about/__subtitle/about__subtitle.css);
+
+@import url(../blocks/about/__btn/about__btn.css);
