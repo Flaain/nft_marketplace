@@ -4,6 +4,10 @@
 
 @import url(../blocks/body/body.css);
 
+@import url(../blocks/keyframes/keyframes.css);
+
+@import url(../blocks/keyframes/UpDown/UpDown.css);
+
 @import url(../blocks/body/__page/body__page.css);
 
 @import url(../blocks/page/page.css);
