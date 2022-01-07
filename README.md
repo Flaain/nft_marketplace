@@ -20,7 +20,7 @@
 
 * [Ссылка на макет в Figma](https://www.figma.com/file/7lpU8HsUlUIcyQpHDSPRyD/NFT-Marketplace-Website-(Community)?node-id=0%3A1)
 
-# Картинки
+# Скриншоты проекта
 ### Главная страница проекта
 ![Image alt](https://github.com/flaain/nft_marketplace/raw/master/images/Screenshot_1.png)
 ### Секция About Us
